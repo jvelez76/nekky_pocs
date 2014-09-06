@@ -1,4 +1,8 @@
 #!/usr/bin/env node
+/**
+ *
+ * @type {*|exports}
+ */
 var debug = require('debug')('poc_cms_01');
 var app = require('../app');
 
